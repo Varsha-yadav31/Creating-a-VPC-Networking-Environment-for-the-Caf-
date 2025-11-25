@@ -1,5 +1,8 @@
-# Creating-a-VPC-Networking-Environment-for-the-Caf-
+`# Creating-a-VPC-Networking-Environment-for-the-Caf-
 # AWS Project Proof
+
+<img width="1150" height="860" alt="image" src="https://github.com/user-attachments/assets/13c19e9f-e094-49d6-866f-cc4711168afe" />
+
 
 This repository contains screenshots from my AWS project, submitted as a part of my cloud computing lab.
 
@@ -30,3 +33,4 @@ This repository is created to maintain proof of completion and to showcase proje
 ### ✨ Created By
 **Varsha Yadav **
 Cloud Computing Student  
+`
